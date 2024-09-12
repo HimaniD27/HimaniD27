@@ -1,6 +1,6 @@
 ## Hi Everyone, I am Himani!  👋
 
-👩🏻‍💻 Data Scientist sharing her journey and learnings in tech.<br/>
+👩🏻‍💻 Data Scientist sharing my journey and learnings in tech.<br/>
 👩🏻‍🎓 Studied: Physics and Data Science.<br/>
 🧠 Currently learning: Data Science and Analytics.<br/>
 ⚡ Fun Fact: I thrive even in the 'boring' bits. <br/>
