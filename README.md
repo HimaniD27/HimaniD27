@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi Everyone, I am Himani!  👋
 
-<!--
-**HimaniD27/himanid27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩🏻‍💻 Data Scientist sharing her journey and learnings in tech.<br/>
+👩🏻‍🎓 Studied: Physics and Data Science.<br/>
+🧠 Currently learning: Data Science and Analytics.<br/>
+⚡ Fun Fact: I thrive even in the 'boring' bits. <br/>
+💡 Ask me or have a discussion about: Data, Science, Data Science, SQL, Python, R<br/>
+📩 Active on / How to reach me: <br/>
+-[linkedin](https://www.linkedin.com/in/himanid95/)<br/> 
+-[mail](himanidhawanhd@gmail.com)<br/> 
+-[kaggle](https://www.kaggle.com/himanidh)<br/> 
+-[tableau](https://public.tableau.com/app/profile/himani.d8666/vizzes)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
